@@ -1,4 +1,4 @@
-# infinite-scroll
+# infinite scroll
 
 ## use `React Hooks`
 
@@ -6,7 +6,5 @@
 - useEffect
 - useRef
 - useCallback
-
-<br>
 
 ## use `IntersectionObserver` with React
