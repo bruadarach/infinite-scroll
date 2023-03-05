@@ -1,4 +1,6 @@
-# use `React Hooks`
+# infinite-scroll
+
+## use `React Hooks`
 
 - useState
 - useEffect
@@ -7,4 +9,4 @@
 
 <br>
 
-# use `IntersectionObserver` with React
+## use `IntersectionObserver` with React
